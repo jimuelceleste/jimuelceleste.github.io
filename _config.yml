@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Research Assistant at University of Alberta"
   location         : "Edmonton, Canada"
-  employer         : "University of Alberta"
+  employer         : # "University of Alberta"
   uri              : # URL
   email            : "jimueljr@ualberta.ca" 
 
