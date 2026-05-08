@@ -23,7 +23,7 @@ repository               : "jimuelceleste/jimuelceleste.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jnc.png"
+  avatar           : "jnc.jpg"
   name             : "Jimuel Celeste, Jr."
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Research Assistant at University of Alberta"
